@@ -4,7 +4,7 @@ import LanguageIcon from '@mui/icons-material/Language';
 import SharePoint1 from '../assets/images/sharpointProject1.jpg'
 
 export default {
-    name: 'MURALI.R',
+    name: 'MURALI R',
     title: 'Sharepoint Developer',
 
 
